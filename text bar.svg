@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="965px" height="164.00003px" viewBox="0 0 965 164.00003" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L811.263 0C842.118 0 871.158 7.26044 898.382 21.7813C925.607 36.3022 947.813 56.3749 965 81.9996L965 82L965 82.0005C947.813 107.625 925.607 127.698 898.382 142.219C871.158 156.74 842.118 164 811.263 164L0 164L0 82L0 0L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Vector-shape">
+    <use stroke="none" fill="#FFFFFF" xlink:href="#path_1" fill-rule="evenodd" />
+    <g clip-path="url(#clip_1)">
+      <use xlink:href="#path_1" fill="none" stroke="#B49F27" stroke-width="10" />
+    </g>
+  </g>
+</svg>
